@@ -1,7 +1,6 @@
 // model
 const app = document.getElementById('app');
 const pocketStuff = ['Hat', 'Milktea', 'Books', 'Cookie'];
-let isActive = false;
 
 // view
 updateView();
